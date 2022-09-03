@@ -1,2 +1,2 @@
 #!/bin/bash
-Look in the mirror
+chmod --reference olleh hello
